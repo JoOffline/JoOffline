@@ -1,0 +1,51 @@
+name: Generate Glitch Text Animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  
+  workflow_dispatch:
+
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate glitch.svg
+        run: |
+          echo '<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg" style="background:black;">' > glitch.svg
+          echo '<style>' >> glitch.svg
+          echo '.glitch { font: bold 50px monospace; fill: lime; filter: url(#glitch); animation: glitch 1s infinite; }' >> glitch.svg
+          echo '@keyframes glitch {' >> glitch.svg
+          echo '  0% { transform: translate(0); }' >> glitch.svg
+          echo '  20% { transform: translate(-3px, 2px); }' >> glitch.svg
+          echo '  40% { transform: translate(3px, -2px); }' >> glitch.svg
+          echo '  60% { transform: translate(-3px, 0); }' >> glitch.svg
+          echo '  80% { transform: translate(3px, 2px); }' >> glitch.svg
+          echo '  100% { transform: translate(0); }' >> glitch.svg
+          echo '}' >> glitch.svg
+          echo '</style>' >> glitch.svg
+          echo '<defs>' >> glitch.svg
+          echo '  <filter id="glitch">' >> glitch.svg
+          echo '    <feTurbulence type="fractalNoise" baseFrequency="0.02" result="noise" />' >> glitch.svg
+          echo '    <feDisplacementMap in="SourceGraphic" in2="noise" scale="5" />' >> glitch.svg
+          echo '  </filter>' >> glitch.svg
+          echo '</defs>' >> glitch.svg
+          echo '<text x="50" y="100" class="glitch">Glitch Text</text>' >> glitch.svg
+          echo '</svg>' >> glitch.svg
+          
+      - name: Push glitch.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: .
+          files: glitch.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
