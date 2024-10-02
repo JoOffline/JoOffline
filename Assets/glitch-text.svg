@@ -1,0 +1,38 @@
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font: bold 48px sans-serif;
+      fill: #fff;
+      filter: url(#glitch);
+      animation: glitch 1s infinite;
+    }
+
+    @keyframes glitch {
+      0% {
+        transform: translate(0);
+      }
+      20% {
+        transform: translate(-2px, 2px);
+      }
+      40% {
+        transform: translate(2px, -2px);
+      }
+      60% {
+        transform: translate(-2px, -2px);
+      }
+      80% {
+        transform: translate(2px, 2px);
+      }
+      100% {
+        transform: translate(0);
+      }
+    }
+  </style>
+  
+  <filter id="glitch">
+    <feTurbulence type="fractalNoise" baseFrequency="0.02" result="noise" />
+    <feDisplacementMap in="SourceGraphic" in2="noise" scale="8" />
+  </filter>
+  
+  <text x="50" y="150" class="title">Glitch Text</text>
+</svg>
