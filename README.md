@@ -11,7 +11,7 @@
 # 💫 About Me:
 🌐 Just getting started and loving the journey! 🌐<br><br>
 - 🌱 I’m currently learning **Laravel, AI, Python**<br>
-- 📫 How to reach me: **ryin2857@gmail.com**<br>
+- 📫 How to reach me: **ryin2857@gmail.com** <br>    
 - ⚡ Fun fact: **Retail Investor**
 
 ## 🌐 Socials:
@@ -76,7 +76,9 @@
 <img src="https://raw.githubusercontent.com/JoOffline/JoOffline/output/snake.svg" alt="Snake animation" />
 
 ---
-
 <h1 align="center">
+    <img src="https://i.pinimg.com/originals/76/81/93/768193a868e2b32d0a4fd161b69c79df.gif" width="80px" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Game+Over!+👨‍💻;&color=39FF14&background=000000" />
+    <img src="https://i.pinimg.com/originals/76/81/93/768193a868e2b32d0a4fd161b69c79df.gif" width="80px" />
 </h1>
+
