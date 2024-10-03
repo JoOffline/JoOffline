@@ -1,80 +1,88 @@
-<div align="center" style="width: 100%; margin: 0; padding: 0; overflow: hidden;">
-    <img src="https://tenor.com/view/the-matrix-matrix-coding-title-code-gif-17795276.gif" alt="Matrix GIF" width="100%" style="height: auto; max-height: 10px;"/>
+<div align="center" style="background-color: #000000; padding: 20px; border-radius: 15px;">
+    <img src="https://tenor.com/view/the-matrix-matrix-coding-title-code-gif-17795276.gif" alt="Matrix GIF" width="100%" style="height: auto; max-height: 200px; border-radius: 15px;"/>
 </div>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+the+Matrix!+👾;+I’m+JoOffline!+AKA+Ryin!;&color=39FF14" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+the+Matrix!+👾;+I’m+JoOffline!+AKA+Ryin!;&color=39FF14&background=000000" />
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=Cyberpunk+Explorer&color=39FF14&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAAAcklEQVR42u3SQQ3CMBBF0U82FyIi+CGkxAjkEOgA9P9VRJsRmZt/E2yfFutW9np2TT9oZfATUjw4WZZNvgPS9g3e5zwDCNdR9nwVNsIptfZn3plUd1v9iA4BybR3PxWV0Bbz8wQjNZWG9R4oT0FkM2B6k2R2B6oAAAAAElFTkSuQmCC" />
+
+# 💫 About Me:
+🌐 Just getting started and loving the journey! 🌐<br><br>
+- 🌱 I’m currently learning **Laravel, AI, Python**<br>
+- 📫 How to reach me: **ryin2857@gmail.com**<br>
+- ⚡ Fun fact: **Retail Investor**
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.me) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j.ontheway_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr1753) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Mr1753) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jxont02) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ryin2857ryin) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mr17) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JoOffline&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoOffline&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoOffline&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JoOffline&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JoOffline&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+
+
+
 </div>
 
-<h3 align="center" style="color: #39FF14;">- Exploring the realms of prompt engineering, AI, and web tech in style -</h3>
-
-<div align="center">
-    <img src="https://img.shields.io/github/followers/JoOffline?style=social&color=39FF14" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/JoOffline/JoOffline?style=social&color=39FF14" alt="GitHub Stars" />
-</div>
-
+[![](https://visitcount.itsvg.in/api?id=JoOffline&icon=2&color=11)](https://visitcount.itsvg.in)
 ---
 
-<p align="center"> <a href="https://twitter.com/ryin2857ryin" target="blank"><img src="https://img.shields.io/twitter/follow/ryin2857ryin?logo=twitter&style=for-the-badge&color=ff00ff" alt="ryin2857ryin" /></a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 🌱 I’m currently learning **Laravel, Prompt Engineering, Python**
-- 📫 How to reach me **ryin2857@gmail.com**
-- ⚡ Fun fact **Retail Investor**
 
----
-
-<h3 align="center" style="color: #ff00ff;">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/ryin2857ryin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryin2857ryin" height="30" width="40" /></a>
-  <a href="https://kaggle.com/json1753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="json1753" height="30" width="40" /></a>
-  <a href="https://instagram.com/j.ontheway_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j.ontheway_" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/mr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr17" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mr17" height="30" width="40" /></a>
-    
-</p>
+<img src="https://raw.githubusercontent.com/JoOffline/JoOffline/output/snake.svg" alt="Snake animation" />
 
 ---
-
-<h3 align="center" style="color: #39FF14;">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-
----
-
-<h3 align="center" style="color: #ff00ff;">GitHub Stats:</h3>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoOffline&show_icons=true&theme=dark&count_private=true" alt="jooffline" width="45%" style="box-shadow: 0px 0px 10px #ff00ff; border: 2px solid #39FF14;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoOffline&layout=compact&theme=dark" alt="Top Languages" width="34.5%" style="box-shadow: 0px 0px 10px #39FF14; border: 2px solid #ff00ff;" />
-</div>
-
----
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/JoOffline/JoOffline/output/snake.svg" alt="Snake animation" />
-</div>
-
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Game+Over!+👨‍💻;&color=39FF14" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Game+Over!+👨‍💻;&color=39FF14&background=000000" />
 </h1>
